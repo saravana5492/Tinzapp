@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "circle-pencil-64.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "circle-pencil-65.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "circle-pencil-66.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Twozapp/DetailViewController.m"
+            timestampString = "491943026.131658"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "-requestProfileDetails"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Twozapp/DetailViewController.m"
+            timestampString = "491943040.086581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "-requestProfileDetails"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Twozapp/MainViewController.m"
+            timestampString = "494079771.663524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "560"
+            endingLineNumber = "560"
+            landmarkName = "-sendRequestwithStatus:forFriendId:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MainViewController sendRequestwithStatus:forFriendId:]"
+                  moduleName = "Twozapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/govind/Desktop/FREELANCE/GOVIND/WorkingCopies/TwozappWorkingCopy/Twozapp/MainViewController.m"
+                  timestampString = "494079772.728441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "561"
+                  endingLineNumber = "561"
+                  offsetFromSymbolStart = "374">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56-[MainViewController sendRequestwithStatus:forFriendId:]_block_invoke"
+                  moduleName = "Twozapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/govind/Desktop/FREELANCE/GOVIND/WorkingCopies/TwozappWorkingCopy/Twozapp/MainViewController.m"
+                  timestampString = "494079772.72886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "561"
+                  endingLineNumber = "561"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

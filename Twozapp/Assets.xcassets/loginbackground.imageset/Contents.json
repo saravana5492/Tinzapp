@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "login-screen-final-blank copy 2.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "login-screen-final-blank.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "login-screen-final-blank copy.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

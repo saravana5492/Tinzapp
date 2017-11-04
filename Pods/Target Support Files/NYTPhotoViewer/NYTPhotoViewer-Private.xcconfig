@@ -1,0 +1,6 @@
+#include "NYTPhotoViewer.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1 ${NYTPHOTOVIEWER_GCC_PREPROCESSOR_DEFINITIONS}
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/NYTPhotoViewer" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/FLAnimatedImage" "${PODS_ROOT}/Headers/Public/Google" "${PODS_ROOT}/Headers/Public/Google/Google" "${PODS_ROOT}/Headers/Public/GoogleAnalytics" "${PODS_ROOT}/Headers/Public/GoogleInterchangeUtilities" "${PODS_ROOT}/Headers/Public/GoogleNetworkingUtilities" "${PODS_ROOT}/Headers/Public/GoogleSymbolUtilities" "${PODS_ROOT}/Headers/Public/GoogleUtilities" "${PODS_ROOT}/Headers/Public/NYTPhotoViewer" "${PODS_ROOT}/Headers/Public/PureLayout"
+OTHER_LDFLAGS = ${NYTPHOTOVIEWER_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+pod 'NYTPhotoViewer', '~> 1.1.0'
+pod 'Google/Analytics'
+pod 'PureLayout'
